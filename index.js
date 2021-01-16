@@ -11,7 +11,7 @@ const inputNewCurrency = document.querySelector("#new-currency-unit");
 const inputFXRate = document.querySelector("#exchange-rate");
 const outputAmount = document.querySelector("#output-text");
 const button = document.querySelector("button");
-let originalAmount = 0;
+let amount = 0;
 
 // update currency texts on selection
 inputOriginalCurrency.addEventListener("change", updateCurrencyName);
