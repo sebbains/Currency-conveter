@@ -2,6 +2,8 @@
 
 Select from over 150 different currencies to calculate exchange amounts using the latest hourly rates available from the [currency converter API](www.currencyconverterapi.com) web service.
 
+Hosted on Github Pages so please check it out [here](https://sebbains.github.io/Currency-conveter/)
+
 ![screenshot](/screenshot.PNG)
 
 ## How to use
