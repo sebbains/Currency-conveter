@@ -66,7 +66,7 @@ async function getExchangeRate() {
   const fromCurrency = inputOriginalCurrency.value;
   const toCurrency = inputNewCurrency.value;
   // personal key
-  const apiKey = "";
+  const apiKey = "1314563dc186995fe66f";
   // encode currency and build the query
   const fromCurrencyURI = encodeURIComponent(fromCurrency);
   const toCurrencyURI = encodeURIComponent(toCurrency);
